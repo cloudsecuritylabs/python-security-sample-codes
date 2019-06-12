@@ -2,9 +2,6 @@
 #!/usr/bin/python3
 #
 # github token:
-# cd8154772921ba602986816cfb3aba84bc262ea0
-
-
 
 import os
 from subprocess import call
