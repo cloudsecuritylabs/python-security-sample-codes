@@ -1,7 +1,5 @@
 
 #!/usr/bin/python3
-#
-# github token:
 
 import os
 from subprocess import call
